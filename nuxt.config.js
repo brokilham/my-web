@@ -21,7 +21,12 @@ module.exports = {
   ** Custom SCSS
   */
   css: [
-    { src: '~/assets/scss/main.scss', lang: 'scss' }
+    { //src: '~/assets/scss/main.scss', lang: 'scss',
+      src: '~/assets/scss/_base.scss', lang: 'scss',
+      src: '~/assets/scss/_mixins.scss', lang: 'scss',
+      src: '~/assets/scss/_responsive.scss', lang: 'scss',
+      src: '~/assets/scss/styles.scss', lang: 'scss' 
+    }
   ],
   /*
   ** Custom Plugin
