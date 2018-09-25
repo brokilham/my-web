@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'my-web',
+    title: 'sikiliham zone',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -13,15 +13,26 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.min.css' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/css/swiper.css' }
+      { rel: 'stylesheet', type: 'text/css', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/css/swiper.css' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Montserrat:400,700' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' }
+     
+    ],
+    script:[
+      { src: 'https://use.fontawesome.com/releases/v5.1.0/js/all.js' },
+      { src: 'https://code.jquery.com/jquery-3.2.1.slim.min.js' } ,
+      { src: 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js' } ,
+      { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' } 
+      
     ]
+
   },
   /*
   ** Custom SCSS
   */
   css: [
-    { //src: '~/assets/scss/main.scss', lang: 'scss',
+    { 
       src: '~/assets/scss/_base.scss', lang: 'scss',
       src: '~/assets/scss/_mixins.scss', lang: 'scss',
       src: '~/assets/scss/_responsive.scss', lang: 'scss',

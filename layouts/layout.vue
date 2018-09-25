@@ -16,8 +16,8 @@
 </template>
 
 <script>
-import Header from '~/components/header.vue'
-import Footer from '~/components/footer.vue'
+import Header  from '~/components/header.vue'
+import Footer  from '~/components/footer.vue'
 import SideBar from '~/components/side_bar.vue'
 export default {
   components: {
