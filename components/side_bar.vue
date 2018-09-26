@@ -23,7 +23,7 @@
                 <div class="skillset">
                     
                     <div class="item">
-                        <h3 class="level-title">Python &amp; Django<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Expert</span></h3>
+                        <h3 class="level-title">PHP &amp; Laravel</h3>
                         <div class="level-bar">
                             <div class="level-bar-inner" data-level="96%">
                             </div>                                      
@@ -31,23 +31,31 @@
                     </div><!--//item-->
                     
                     <div class="item">
-                        <h3 class="level-title">Javascript &amp; jQuery<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Expert</span></h3>
+                        <h3 class="level-title">HTML5, CSS3, Bootstrap</h3>
                         <div class="level-bar">
                             <div class="level-bar-inner" data-level="96%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
-                    
+
                     <div class="item">
-                        <h3 class="level-title">HTML5, CSS3, SASS &amp; LESS<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Expert</span></h3>
+                        <h3 class="level-title">C# &amp; .NET</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="96%">
+                            <div class="level-bar-inner" data-level="85%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
-                    
+
                     <div class="item">
-                        <h3 class="level-title">Ruby on Rails<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i>Pro</span></h3>
+                        <h3 class="level-title">Java &amp; Android Native</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="85%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h6 class="level-title">Sqlite, MySQL, SQL Server, Oracle, Mongo Db &amp; Android</h6>
                         <div class="level-bar">
                             <div class="level-bar-inner" data-level="85%">
                             </div>                                      
