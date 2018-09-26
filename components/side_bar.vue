@@ -23,7 +23,7 @@
                 <div class="skillset">
                     
                     <div class="item">
-                        <h3 class="level-title">PHP &amp; Laravel</h3>
+                        <h3 class="level-title">PHP, Laravel &amp; Lumen</h3>
                         <div class="level-bar">
                             <div class="level-bar-inner" data-level="96%">
                             </div>                                      
@@ -55,7 +55,7 @@
                     </div><!--//item-->
 
                     <div class="item">
-                        <h6 class="level-title">Sqlite, MySQL, SQL Server, Oracle, Mongo Db &amp; Android</h6>
+                        <h6 class="level-title">Sqlite, MySQL, SQL Server, Oracle &amp; Mongo Db</h6>
                         <div class="level-bar">
                             <div class="level-bar-inner" data-level="85%">
                             </div>                                      

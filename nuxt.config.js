@@ -16,7 +16,7 @@ module.exports = {
       { rel: 'stylesheet', type: 'text/css', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' },
       { rel: 'stylesheet', type: 'text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/css/swiper.css' },
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Montserrat:400,700' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' }
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' },
      
     ],
     script:[
@@ -36,7 +36,8 @@ module.exports = {
       src: '~/assets/scss/_base.scss', lang: 'scss',
       src: '~/assets/scss/_mixins.scss', lang: 'scss',
       src: '~/assets/scss/_responsive.scss', lang: 'scss',
-      src: '~/assets/scss/styles.scss', lang: 'scss' 
+      src: '~/assets/scss/styles.scss', lang: 'scss',
+     // src: '~/node_modules/github-calendar/dist/github-calendar.css', lang: 'css'
     }
   ],
   /*
